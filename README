@@ -1,0 +1,3 @@
+using it by type the following command:
+eg(copy file in need_copy in current dir to c:\):
+python copy_file.py .  need_copy c:\
